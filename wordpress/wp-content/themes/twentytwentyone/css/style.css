@@ -1041,18 +1041,6 @@ nav>ul li>ul li>ul {
     width: 25%;
 }
 
-.class-234232 .wpcf7-form-control-wrap {
-    width: 100%;
-    position: relative!important;
-    display: inline-block;
-    margin-bottom: 3px
-}
-
-.class-234232 .wpcf7-form-control-wrap .wpcf7-form-control {
-    width: 100% !important;
-    border-color: #EEEEEE !important;
-}
-
 @-webkit-keyframes slide {
     10% {
         margin-left: 0px;
