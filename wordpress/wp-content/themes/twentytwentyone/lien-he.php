@@ -123,7 +123,7 @@ if ( ! defined( 'ABSPATH' )){
                     </div>
                 </div>
                 <div class="w-50 pd-l-40">
-                    <img class="w-100" src="https://wsu.vn/wp-content/uploads/2020/09/wsu-lienhe-delailoinhan.png" alt="">
+                    <img width="100%" src="https://wsu.vn/wp-content/uploads/2020/09/wsu-lienhe-delailoinhan.png" alt="">
                 </div>
             </div>
     </div>

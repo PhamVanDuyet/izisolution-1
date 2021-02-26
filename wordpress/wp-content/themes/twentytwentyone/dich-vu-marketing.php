@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' )){
             <div class="container flex">
                 <div class="w-50">
                     <div>
-                        <img src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
+                        <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
                     </div>
                 </div>
                 <div class="w-50">
@@ -62,7 +62,7 @@ if ( ! defined( 'ABSPATH' )){
 
                 <div class="w-50">
                     <div>
-                        <img src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
+                        <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
                     </div>
                 </div>
             </div>
@@ -71,7 +71,7 @@ if ( ! defined( 'ABSPATH' )){
             <div class="container flex">
                 <div class="w-50">
                     <div>
-                        <img src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
+                        <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
                     </div>
                 </div>
                 <div class="w-50">
@@ -250,7 +250,7 @@ if ( ! defined( 'ABSPATH' )){
             <div class="container flex">
                 <div class="w-50">
                     <div>
-                        <img src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
+                        <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
                     </div>
                 </div>
                 <div class="w-50">

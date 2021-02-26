@@ -84,7 +84,7 @@ onload = function()
 </style>
 </head>
 
-<body>
+<body style="overflow-x: hidden;">
     <div style="position: fixed; z-index: 9999; bottom: 20px; right: 20px; display: block; width: 60px;">
         <a href="http://facebook.com">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -169,19 +169,19 @@ onload = function()
                 </div>
             </div>
         </section>
-        <section id="section-2">
-            <div class="container">
-                <div class="flex w-100">
-                    <div class="w-40 pd-10">
-                        <div class="elementor-image">
-                            <a href="#" style="display: flex;">
-                                <img class="alignnone wp-image-2736" src="img/logo100.png" height="60" alt="" data-wp-editing="1">
-                                <span style="font-size: 31px; color: #000000; font-weight: 600; margin-left: 15px;">JinJoo Marketing</span>
-                            </a>
-                        </div>
+        <section id="section-2" style="width: 100%">
+            <div class="container flex">
+                <div class="pd-10" style="width: calc(40% - 20px);">
+                    <div class="elementor-image">
+                        <a href="#" style="display: flex;">
+                            <img class="alignnone wp-image-2736" src="img/logo100.png" height="60" alt="" data-wp-editing="1">
+                            <span style="font-size: 31px; color: #000000; font-weight: 600; margin-left: 15px;">JinJoo Marketing</span>
+                        </a>
                     </div>
-                    <div class="flex w-100">
-                        <div class="menu w-85">
+                </div>
+                <div class="flex w-60" style="justify-content: flex-end;">
+                    <div style="display: flex;">
+                        <div class="menu">
                             <nav>
                                 <ul class="float-r pd-10">
                                     <li><a href="http://localhost/izisolution-1/wordpress">Trang Chủ</a></li>
@@ -201,10 +201,33 @@ onload = function()
                                 </ul>
                             </nav>
                         </div>
-                        <div class="elementor-widget-container w-15 pd-10">
-                            <button>Tư Vấn Ngay</button>
-                        </div>
+                        <div class="elementor-widget-container pd-10">
+                        <button>Tư Vấn Ngay</button>
                     </div>
+                    </div>
+                    <!-- <div class="menu w-85">
+                        <nav>
+                            <ul class="float-r pd-10">
+                                <li><a href="http://localhost/izisolution-1/wordpress">Trang Chủ</a></li>
+                                <li>
+                                    <a href="http://localhost/izisolution-1/wordpress/dich-vu-thiet-ke-website/">Dịch Vụ</a>
+                                    <ul class="sub-menu ">
+                                        <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-thiet-ke-website/">Dịch vụ thiết kế website</a></li>
+                                        <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-toi-uu-website/">Dịch vụ tối ưu website</a></li>
+                                        <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-marketing/">Dịch vụ Marketing</a></li>
+                                        <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-cham-soc-website/">Dịch vụ chăm sóc website</a></li>
+                                        <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-google-maps/">Dịch vụ Google Maps</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="http://localhost/izisolution-1/wordpress/ve-chung-toi/">Về Chúng Tôi</a></li>
+                                <li><a href="http://localhost/izisolution-1/wordpress/kien-thuc/">Kiến Thức</a></li>
+                                <li><a href="http://localhost/izisolution-1/wordpress/lien-he/">Liên Hệ</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="elementor-widget-container w-15 pd-10">
+                        <button>Tư Vấn Ngay</button>
+                    </div> -->
                 </div>
             </div>
         </section>

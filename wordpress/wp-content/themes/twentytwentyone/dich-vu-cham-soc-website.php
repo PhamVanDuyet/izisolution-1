@@ -6,28 +6,28 @@ if ( ! defined( 'ABSPATH' )){
 <?php get_header(); ?>
 
 <section id="section-3">
-<div class="container flex">
-<div class="w-45">
+<div class="container flex mobile-wrap">
+<div class="w-45 mobile-w100">
 <div>
 <h1 class="h1-1001 mg-b-25" style="color: #313e5b;">Giải Pháp Chăm Sóc Website<span style="color: #33cc66;"> Thể &amp; Toàn Diện</span></h1>
 <p class="p-1002 mg-t-50">Nhằm mục đích đẩy mạnh hiệu quả kinh doanh trực tuyến, việc sở hữu một trang website đẹp vẫn chưa đủ mà bạn cần phải chăm sóc website một cách toàn diện nhất. Đến với JinJoo Marketing, bạn hãy yên tâm kinh doanh, mọi việc chăm
 sóc website cứ giao cho JinJoo Marketing quản lý giúp bạn. Từ việc tối ưu website đến hình ảnh, nội dung, tăng lượng tương tác khách hàng, chuẩn SEO và tăng độ hiển thị trên Google đều được JinJoo Marketing hoàn thành tốt nhất.</p>
 
 </div>
-<div class="flex mg-t-60">
+<div class="flex mobile-wrap mg-t-60">
 <div class="elementor-button-wrapper"><a href="#">Xem Bảng Giá</a></div>
 </div>
 </div>
-<div class="w-55">
-<div><img style="float: right;" src="https://izisolution.xyz/wp-content/uploads/2021/02/ccd216418a987ac62389-min.jpg" /></div>
+<div class="w-55 mobile-w100">
+<div><img width="100%" style="float: right;" src="https://izisolution.xyz/wp-content/uploads/2021/02/ccd216418a987ac62389-min.jpg" /></div>
 </div>
 </div>
 </section><section id="section-5">
 <div class="container flex">
-<div class="w-50">
-<div><img src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" /></div>
+<div class="w-50 mobile-w100">
+<div><img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" /></div>
 </div>
-<div class="w-50">
+<div class="w-50 mobile-w100">
 <div>
 <h5 class="h5-1001 mg-b-10 ma-t-0">VÌ SAO SỬ DỤNG DỊCH VỤ</h5>
 <h2 class="h2-1002 mg-t-10">Chăm sóc Website</h2>
@@ -50,14 +50,14 @@ sóc website cứ giao cho JinJoo Marketing quản lý giúp bạn. Từ việc 
 </section><section id="section-4" class="class-0003">
 <div class="container">
 <div class="w-100">
-<div style="width: 850px; margin-left: auto; margin-right: auto; text-align: center;">
+<div style="max-width: 850px; margin-left: auto; margin-right: auto; text-align: center;">
 <h5 class="h5-1001">CHÚNG TÔI LÀM GÌ</h5>
 <h1 class="h1-1003">Các Hạng Mục Khách Hàng Nhận Được</h1>
 </div>
 </div>
 </div>
 <div class="container flex" style="flex-wrap: wrap;">
-<div class="w-33 elementor-element-11 animation-transform">
+<div class="w-33 mobile-w100 elementor-element-11 animation-transform">
 <div class="pd-15 elementor-column-i12">
 <div class="elementor-element-i12">
 <div class="elementor-element-i13">
@@ -73,7 +73,7 @@ sóc website cứ giao cho JinJoo Marketing quản lý giúp bạn. Từ việc 
 </div>
 </div>
 </div>
-<div class="w-33 elementor-element-11 animation-transform">
+<div class="w-33 mobile-w100 elementor-element-11 animation-transform">
 <div class="pd-15 elementor-column-i12">
 <div class="elementor-element-i12">
 <div class="elementor-element-i13">
@@ -89,7 +89,7 @@ sóc website cứ giao cho JinJoo Marketing quản lý giúp bạn. Từ việc 
 </div>
 </div>
 </div>
-<div class="w-33 elementor-element-11 animation-transform">
+<div class="w-33 mobile-w100 elementor-element-11 animation-transform">
 <div class="pd-15 elementor-column-i12">
 <div class="elementor-element-i12">
 <div class="elementor-element-i13">
@@ -106,7 +106,7 @@ Thiết Kế Hình Ảnh</h4>
 </div>
 </div>
 </div>
-<div class="w-33 elementor-element-11 animation-transform">
+<div class="w-33 mobile-w100 elementor-element-11 animation-transform">
 <div class="pd-15 elementor-column-i12">
 <div class="elementor-element-i12">
 <div class="elementor-element-i13">
@@ -122,7 +122,7 @@ Thiết Kế Hình Ảnh</h4>
 </div>
 </div>
 </div>
-<div class="w-33 elementor-element-11 animation-transform">
+<div class="w-33 mobile-w100 elementor-element-11 animation-transform">
 <div class="pd-15 elementor-column-i12">
 <div class="elementor-element-i12">
 <div class="elementor-element-i13">
@@ -138,7 +138,7 @@ Thiết Kế Hình Ảnh</h4>
 </div>
 </div>
 </div>
-<div class="w-33 elementor-element-11 animation-transform">
+<div class="w-33 mobile-w100 elementor-element-11 animation-transform">
 <div class="pd-15 elementor-column-i12">
 <div class="elementor-element-i12">
 <div class="elementor-element-i13">
@@ -164,8 +164,8 @@ Thiết Kế Hình Ảnh</h4>
 </div>
 </div>
 </div>
-<div class="flex container" style="justify-content: space-between;">
-<div class="w-50 mg-r-10" style="overflow: hidden; box-shadow: 0px 5px 15px 0px #DDDDDD;">
+<div class="flex container mobile-wrap" style="justify-content: space-between;">
+<div class="w-50 mobile-w100 mg-r-10" style="overflow: hidden; box-shadow: 0px 5px 15px 0px #DDDDDD;">
 <div class="elementor-widget-0">
 <div class="a-1111">
 <h2 class="h2-1004" style="font-weight: 400; margin-bottom: 15px;">Gói cơ bản</h2>
@@ -197,7 +197,7 @@ Thiết Kế Hình Ảnh</h4>
 </div>
 </div>
 </div>
-<div class="w-50 mg-l-10" style="overflow: hidden; box-shadow: 0px 5px 15px 0px #DDDDDD;">
+<div class="w-50 mobile-w100 mg-l-10" style="overflow: hidden; box-shadow: 0px 5px 15px 0px #DDDDDD;">
 <div class="elementor-widget-0">
 <div class="a-1111">
 <h2 class="h2-1004" style="font-weight: 400; margin-bottom: 15px;">Gói nâng cao</h2>

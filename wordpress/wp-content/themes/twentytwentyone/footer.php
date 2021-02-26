@@ -1,7 +1,7 @@
 <footer id="footer">
         <section id="section-9">
-            <div class="container">
-                <div class="w-25">
+            <div class="container mobile-wrap">
+                <div class="w-25 mobile-w100">
                     <div class="pd-10">
                         <div class="elementor-text-editor">
                             <div>
@@ -26,7 +26,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="w-25">
+                <div class="w-25 mobile-w100">
                     <div class="pd-10">
                         <div>
                             <h3 class="h3-1001">Dịch vụ</h3>
@@ -59,7 +59,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="w-25">
+                <div class="w-25 mobile-w100">
                     <div class="pd-10">
                         <div>
                             <h3 class="h3-1001">Bản đồ</h3>
@@ -70,7 +70,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="w-25">
+                <div class="w-25 mobile-w100">
                     <div class="pd-10">
                         <div>
                             <h3 class="h3-1001">Liên hệ</h3>

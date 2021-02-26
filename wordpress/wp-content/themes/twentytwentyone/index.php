@@ -1,7 +1,7 @@
 <?php get_header(); ?>    
 <section id="section-3">
-            <div class="container flex">
-                <div class="w-45">
+            <div class="container flex mobile-wrap">
+                <div class="w-45 mobile-w100">
                     <div>
                         <h1 class="h1-1001">Giải Pháp Marketing Online Hiệu Quả</h1>
                         <p class="color-525F81 p-1001">Mỗi khách hàng, mỗi chiến dịch mới với JinJoo Marketing luôn là một thử thách mới. Từng bộ phận, từng nhân viên của chúng tôi luôn sẵn sàng cùng bạn tạo nên một tuyệt tác mới.
@@ -22,17 +22,17 @@
                         </div>
                     </div>
                 </div>
-                <div class="w-55">
+                <div class="w-55 mobile-w100">
                     <div>
-                        <img src="https://izisolution.xyz/wp-content/uploads/2021/02/ccd216418a987ac62389-min.jpg" />
+                        <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/ccd216418a987ac62389-min.jpg" />
                     </div>
                 </div>
             </div>
         </section>
 
         <section id="section-4">
-            <div class="pd-t-50 pd-b-50 flex container">
-                <div class="w-35 pd-l-50 pd-r-50">
+            <div class="class-00014 mobile-wrap container">
+                <div class="w-35 mobile-w100">
                     <div>
                         <h5 class="h5-1001 mg-0">Bạn Cần Gì</h5>
                     </div>
@@ -40,7 +40,7 @@
                         <h2 class="h2-1001 mg-t-15 mg-b-0" style="font-size:37px;">JinJoo Marketing Đều Có Thể Đáp Ứng</h2>
                     </div>
                 </div>
-                <div class="w-65 pd-l-50 pd-r-50 mg-l-20 mg-r-20">
+                <div class="w-65 mobile-w100 mg-l-20 mg-r-20">
                     <div>
                         <h5 class="h5-1001">
                             <em>Bạn cần một giải pháp Marketing Online hiệu quả? JinJoo Marketing đáp ứng những gì bạn cần: đội ngũ Marketer trẻ, đầy nhiệt huyết cùng kinh nghiệm thực chiến và bộ phận IT đã mang đến hơn 100 Website độc đáo, đầy sáng tạo.</em>
@@ -51,8 +51,8 @@
         </section>
         <section id="section-10">
             <div class="container" style="display: block;">
-                <div class="flex w-100" style="flex-wrap: wrap;">
-                    <div class="w-25 elementor-element-11 animation-transform" style="box-shadow: none; display: flex;">
+                <div class="flex w-100 mobile-wrap">
+                    <div class="mobile-w100 w-25  elementor-element-11 animation-transform" style="box-shadow: none; display: flex;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -74,7 +74,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="w-25 elementor-element-11 animation-transform" style="box-shadow: none; display: flex;">
+                    <div class="w-25 mobile-w100 elementor-element-11 animation-transform" style="box-shadow: none; display: flex;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -96,7 +96,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="w-25 elementor-element-11 animation-transform" style="box-shadow: none; display: flex;">
+                    <div class="w-25 mobile-w100 elementor-element-11 animation-transform" style="box-shadow: none; display: flex;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -119,7 +119,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="w-25 elementor-element-11 animation-transform" style="box-shadow: none; display: flex;">
+                    <div class="w-25 mobile-w100 elementor-element-11 animation-transform" style="box-shadow: none; display: flex;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -145,13 +145,13 @@
             </div>
     </section>
     <section id="section-5">
-        <div class="container flex">
-            <div class="w-50">
+        <div class="container flex mobile-wrap">
+            <div class="w-50 mobile-w100">
                 <div>
-                    <img src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
+                    <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
                 </div>
             </div>
-            <div class="w-50">
+            <div class="w-50 mobile-w100">
                 <div>
                     <h5 class="h5-1001 mg-b-10 ma-t-0">DỊCH VỤ</h5>
                     <h2 class="h2-1002 mg-t-10">Thiết Kế Website</h2>
@@ -202,8 +202,8 @@
         </div>
     </section>
     <section id="section-6">
-        <div class="container flex">
-            <div class="w-50">
+        <div class="container flex mobile-wrap">
+            <div class="w-50 mobile-w100">
                 <div>
                     <h5 class="h5-1001 mg-b-10 ma-t-0">DỊCH VỤ</h5>
                     <h2 class="h2-1002 mg-t-10">Tối Ưu & Tăng Tốc Website</h2>
@@ -261,37 +261,37 @@
                     </div>
                 </div>
             </div>
-            <div class="w-50">
+            <div class="w-50 mobile-w100">
                 <div>
-                    <img src="https://izisolution.xyz/wp-content/uploads/2021/02/99d9fdd0ad055d5b0414-min.jpg" />
+                    <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/99d9fdd0ad055d5b0414-min.jpg" />
                 </div>
             </div>
         </div>
     </section>
 
     <section id="section-7">
-        <div class="container">
-            <div class="w-25" style="text-align: center;">
-                <h1 class="mg-0"><span style="font-size: 70px; color: #fff;">100%</span></h1>
-                <h4 class="mg-0"><span style="font-size: 16px; color: #fff;">Khách hàng hài lòng</span></h4>
+        <div class="container class-00013">
+            <div>
+                <h1><span>100%</span></h1>
+                <h4><span>Khách hàng hài lòng</span></h4>
             </div>
-            <div class="w-25" style="text-align: center;">
-                <h1 class="mg-0"><span style="font-size: 70px; color: #fff;">50+</span></h1>
-                <h4 class="mg-0"><span style="font-size: 16px; color: #fff;">Website đã thiết kế</span></h4>
+            <div>
+                <h1><span>50+</span></h1>
+                <h4><span>Website đã thiết kế</span></h4>
             </div>
-            <div class="w-25" style="text-align: center;">
-                <h1 class="mg-0"><span style="font-size: 70px; color: #fff;">120+</span></h1>
-                <h4 class="mg-0"><span style="font-size: 16px; color: #fff;">Website được tối ưu</span></h4>
+            <div>
+                <h1><span>120+</span></h1>
+                <h4><span>Website được tối ưu</span></h4>
             </div>
-            <div class="w-25" style="text-align: center;">
-                <h1 class="mg-0"><span style="font-size: 70px; color: #fff;">700+</span></h1>
-                <h4 class="mg-0"><span style="font-size: 16px; color: #fff;">Từ khóa được SEO</span></h4>
+            <div>
+                <h1><span>700+</span></h1>
+                <h4><span>Từ khóa được SEO</span></h4>
             </div>
         </div>
     </section>
     <section id="section-5">
-        <div class="container flex">
-            <div class="w-50">
+        <div class="container flex mobile-wrap">
+            <div class="w-50 mobile-w100">
                 <div>
                     <h2 class="h2-1002 mg-t-10">DỊCH VỤ CHĂM SÓC WEBSITE </h2>
                     <p style="color: #525F81;">Thu hút thêm nhiều khách hàng tiềm năng với gói Chăm sóc website của JinJoo Marketing: Tối thiểu chi phí, Tối đa lợi nhuận.
@@ -338,21 +338,21 @@
                     </div>
                 </div>
             </div>
-            <div class="w-50">
+            <div class="w-50 mobile-w100">
                 <div>
-                    <img src="https://izisolution.xyz/wp-content/uploads/2021/02/e8265db9c360333e6a71-min.jpg" />
+                    <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/e8265db9c360333e6a71-min.jpg" />
                 </div>
             </div>
         </div>
     </section>
     <section id="section-5">
-        <div class="container flex">
-            <div class="w-50">
+        <div class="container flex mobile-wrap">
+            <div class="w-50 mobile-w100">
                 <div>
-                    <img src="https://izisolution.xyz/wp-content/uploads/2021/02/4f641fb89261623f3b70-min.jpg" />
+                    <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/4f641fb89261623f3b70-min.jpg" />
                 </div>
             </div>
-            <div class="w-50">
+            <div class="w-50 mobile-w100">
                 <div>
                     <h2 class="h2-1002 mg-t-10">DỊCH VỤ QUẢNG CÁO GOOGLE, FACEBOOK</h2>
                     <p style="color: #525F81;">Gia tăng thêm cơ hội tiếp cận nhóm khách hàng mới, mở rộng thị trường với dịch vụ Quảng cáo trên các nền tảng số của chúng tôi.

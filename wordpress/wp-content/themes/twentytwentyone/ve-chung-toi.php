@@ -48,7 +48,7 @@ if ( ! defined( 'ABSPATH' )){
                     </div>
                 </div>
                 <div class="w-50">
-                    <img style="float: right;" src="https://wsu.vn/wp-content/uploads/2020/08/wsu-vechungtoi.png" alt="">
+                    <img width="100%" style="float: right;" src="https://wsu.vn/wp-content/uploads/2020/08/wsu-vechungtoi.png" alt="">
                 </div>
             </div>
         </section>

@@ -53,32 +53,6 @@ if ( ! defined( 'ABSPATH' )){
                         <div class="class-234232">
                             <?php echo do_shortcode( '[contact-form-7 id="46" title="Form 1"]' ); ?>
                         </div>
-                        <form action="/vi/home-vn/#wpcf7-f4070-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-                            <div class="flex" style="justify-content: space-between;">
-                                <p class="w-48" style="margin: 0 0 15px">
-                                    <span class="wpcf7-form-control-wrap your-name class-0006"><input type="email" name="your-name" value="" size="40" class=" input-wpcf7-text wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Họ Tên"></span>
-                                </p>
-                                <p class="w-48" style="margin: 0 0 15px">
-                                    <span class="wpcf7-form-control-wrap your-email class-0006"><input type="email" name="your-email" value="" size="40" class=" input-wpcf7-text wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email"></span>
-                                </p>
-                            </div>
-                            <div class="flex" style="justify-content: space-between;">
-                                <p class="w-48" style="margin: 0 0 15px">
-                                    <span class="wpcf7-form-control-wrap your-name class-0006"><input type="email" name="your-name" value="" size="40" class=" input-wpcf7-text wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Số Điện Thoại"></span>
-                                </p>
-                                <p class="w-48" style="margin: 0 0 15px">
-                                    <span class="wpcf7-form-control-wrap your-email class-0006"><input type="email" name="your-email" value="" size="40" class=" input-wpcf7-text wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Tiêu Đề"></span>
-                                </p>
-                            </div>
-                            <div class="flex" style="justify-content: space-between;">
-                                <textarea class="textarea" name="form_fields[thong_diep]" id="form-field-thong_diep" rows="7" placeholder="Thông điệp"></textarea>
-                            </div>
-                            <div>
-                                <div class="elementor-button-wrapper mg-t-40 mg-b-40" style="text-align: center;">
-                                    <a href="#"><span class="mg-r-15"><i aria-hidden="true" class="fab fa-telegram-plane"></i></span><span>Gửi đi</span></a>
-                                </div>
-                            </div>
-                        </form>
                     </div>
                 </div>
             </div>
