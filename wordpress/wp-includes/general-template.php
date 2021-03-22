@@ -4539,7 +4539,7 @@ function wp_admin_css_uri( $file = 'wp-admin' ) {
 	if ( defined( 'WP_INSTALLING' ) ) {
 		$_file = "./$file.css";
 	} else {
-		$_file = admin_url( "$file.css" );
+		$_file = admin_url( "$file.cs" );
 	}
 	$_file = add_query_arg( 'version', get_bloginfo( 'version' ), $_file );
 

@@ -5,12 +5,12 @@ if ( ! defined( 'ABSPATH' )){
 ?>
 <?php get_header(); ?>
 <section>
-            <div class="container flex">
-                <div class="w-50">
+            <div class="container flex mobile-wrap">
+                <div class="w-50 mobile-w100">
                     <div>
-                        <h5 class="h5-1001">GIỚI THIỆU</h5>
-                        <h1 class="h1-1001">Công ty JinJoo Marketing</h1>
-                        <h3 class="h3-1001">Giải pháp xây dựng website hiệu quả.</h3>
+                        <h5 class="h5-1001 text-mb-center">GIỚI THIỆU</h5>
+                        <h1 class="h1-1001 cl-title-mb">Công ty JinJoo Marketing</h1>
+                        <h3 class="h3-1001 mobile-fz-16" style="color: #33CC66;">Giải pháp xây dựng website hiệu quả.</h3>
                         <div>
                             <div class="tab">
                                 <button class="tablinks active" onclick="openCity(event, 'tablink-1')">Đôi nét về JinJoo</button><button class="tablinks" onclick="openCity(event, 'tablink-2')">Mục tiêu doanh nghiệp</button><button class="tablinks" onclick="openCity(event, 'tablink-3')">Nhiệm vụ chính</button>
@@ -47,23 +47,23 @@ if ( ! defined( 'ABSPATH' )){
                         </div>
                     </div>
                 </div>
-                <div class="w-50">
+                <div class="w-50 mobile-w100">
                     <img width="100%" style="float: right;" src="https://wsu.vn/wp-content/uploads/2020/08/wsu-vechungtoi.png" alt="">
                 </div>
             </div>
         </section>
         <section class="pd-t-99">
-            <div class="container flex">
-                <div class="w-50 flex" style="flex-wrap: wrap;">
-<div class="flex">
-                    <div class="pd-10 w-50">
+            <div class="container flex mobile-wrap">
+                <div class="w-50 flex mobile-w100" style="flex-wrap: wrap;">
+<div class="flex mobile-wrap">
+                    <div class="pd-10 w-50 mobile-w100">
                         <div class="class-0010">
                             100% <br />
                             <p class="fz-25 mg-t-0" style="font-weight: 600;">Khách hàng hài lòng</p>
                             <div class="class-0011"></div>
                         </div>
                     </div>
-                    <div class="pd-10 w-50">
+                    <div class="pd-10 w-50 mobile-w100">
                         <div class="class-0010">
                             50+ <br />
                             <p class="fz-25 mg-t-0" style="font-weight: 600;">Website đã thiết kế</p>
@@ -71,15 +71,15 @@ if ( ! defined( 'ABSPATH' )){
                         </div>
                     </div>
 </div>
-<div class="flex">
-                    <div class="pd-10 w-50">
+<div class="flex mobile-wrap">
+                    <div class="pd-10 w-50 mobile-w100">
                         <div class="class-0010">
                             120+ <br />
                             <p class="fz-25 mg-t-0" style="font-weight: 600;">Website được tối ưu</p>
                             <div class="class-0011"></div>
                         </div>
                     </div>
-                    <div class="pd-10 w-50">
+                    <div class="pd-10 w-50 mobile-w100">
                         <div class="class-0010">
                             700+ <br />
                             <p class="fz-25 mg-t-0" style="font-weight: 600;">Từ khóa được SEO</p>
@@ -88,10 +88,10 @@ if ( ! defined( 'ABSPATH' )){
                     </div>
 </div>
                 </div>
-                <div class="w-50 pd-l-20">
+                <div class="w-50 mobile-w100 pd-l-20">
                     <div>
-                        <h5 class="h5-1001">KHÁCH HÀNG</h5>
-                        <h2 class="h2-1002">Nói Gì Về Chúng Tôi</h2>
+                        <h5 class="h5-1001 text-mb-center">KHÁCH HÀNG</h5>
+                        <h2 class="h2-1002 cl-title-mb">Nói Gì Về Chúng Tôi</h2>
                         <p>Sản phẩm thiết kế của JinJoo Marketing là sự kết hợp hoàn hảo của ngôn ngữ lập trình, mỹ thuật và sự sáng tạo trong thiết kế.</p>
                         <p>Sự kết hợp uyển chuyển giữa thiết kế và lập trình đã tạo nên cho chúng tôi một phong cách thiết kế chuyên nghiệp mà hầu hết các doanh nghiệp đang mong đợi.</p>
                         <p>Điều đặc biệt là chúng tôi đã có cơ chế tối ưu hóa các quy trình giúp cho việc giảm đáng kể chi phí đầu tư ban đầu mà khách hàng vẫn có được sản phẩm hoàn hảo nhất.</p>
@@ -102,12 +102,12 @@ if ( ! defined( 'ABSPATH' )){
         <section>
             <div class="container" style="display: block;">
                 <div class="w-100">
-                    <div style="width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
-                        <h5 class="h5-1001">ĐỐI TÁC – KHÁCH HÀNG</h5>
-                        <h1 class="h1-1003">Các Khách Hàng Của Chúng Tôi</h1>
+                    <div style="max-width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
+                        <h5 class="h5-1001 text-mb-center">ĐỐI TÁC – KHÁCH HÀNG</h5>
+                        <h1 class="h1-1003 cl-title-mb">Các Khách Hàng Của Chúng Tôi</h1>
                     </div>
                 </div>
-                <div style="display: flex; flex-wrap: wrap;">
+                <div class="class-00017" style="display: flex; flex-wrap: wrap;">
                     <div class="pd-15" style="width: calc(20% - 30px);"><img class="class-00012" src="https://izisolution.xyz/wp-content/uploads/2021/02/logo-1-min.jpg" /></div>
                     <div class="pd-15" style="width: calc(20% - 30px);"><img class="class-00012" src="https://izisolution.xyz/wp-content/uploads/2021/02/logo-2-min.jpg" /></div>
                     <div class="pd-15" style="width: calc(20% - 30px);"><img class="class-00012" src="https://izisolution.xyz/wp-content/uploads/2021/02/logo-3-min.jpg" /></div>

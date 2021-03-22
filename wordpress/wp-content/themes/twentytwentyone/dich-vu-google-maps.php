@@ -6,16 +6,16 @@ if ( ! defined( 'ABSPATH' )){
 <?php get_header(); ?>
 
 <section id="section-3">
-            <div class="container flex">
-                <div class="w-45">
+            <div class="container flex mobile-wrap">
+                <div class="w-45 mobile-w100">
                     <div>
-                        <h1 class="h1-1001">
-                            Dịch Vụ<br/>Xác Minh Địa Điểm Google Maps
+                        <h1 class="h1-1001 cl-title-mb">
+                            Dịch Vụ <br class="mb-display-none"/>Xác Minh Địa Điểm Google Maps
                         </h1>
                         <p class="p-1001" style="color: #525F81;">Bạn có biết rằng có đến 60% khách hàng khi tiến hành truy vấn trên Google sẽ chọn một trong những địa điểm xuất hiện đầu tiên? Và bạn có biết có đến 40% khách hàng sẽ tin tưởng, mua hàng hoặc thậm chí ghé thăm các cửa hàng được xuất hiện trên Google Maps không?</p>
                     </div>
                 </div>
-                <div class="w-55">
+                <div class="w-55 mobile-w100">
                     <div>
                         <img style="float: right; width: 100%; max-width: 500px;" src="https://izisolution.xyz/wp-content/uploads/2021/02/lq-0001-min.jpg" />
                     </div>
@@ -23,16 +23,16 @@ if ( ! defined( 'ABSPATH' )){
             </div>
         </section>
         <section id="section-5">
-            <div class="container flex">
-                <div class="w-50">
+            <div class="container flex mobile-wrap">
+                <div class="w-50 mobile-w100">
                     <div>
                         <img style="float: left; width: 100%; max-width: 500px;" src="https://izisolution.xyz/wp-content/uploads/2021/02/lq-0002-min.jpg" />
                     </div>
                 </div>
-                <div class="w-50">
+                <div class="w-50 mobile-w100">
                     <div>
                         <!-- <h5 class="h5-1001 mg-b-10 ma-t-0">DỊCH VỤ</h5> -->
-                        <h2 class="h2-1002 mg-t-10">Tầm Quan Trọng Của Việc Lên Google Maps</h2>
+                        <h2 class="h2-1002 mg-t-10 cl-title-mb">Tầm Quan Trọng Của Việc Lên Google Maps</h2>
                         <p style="color: #525F81;">Nhìn chung, Google Maps hiện nay mang lại nhiều lợi ích cho đa số các loại hình kinh doanh và doanh nghiệp.
                         </p>
                     </div>
@@ -54,13 +54,13 @@ if ( ! defined( 'ABSPATH' )){
         <section id="section-4" class="class-0003">
             <div class="container" style="display: block;">
                 <div class="w-100">
-                    <div style="width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
+                    <div style="max-width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
                         <h5 class="h5-1001">LỢI ÍCH</h5>
-                        <h1 class="h1-1003">Các Lợi Ích Tuyệt Vời Từ <br/> Google Maps</h1>
+                        <h1 class="h1-1003 cl-title-mb">Các Lợi Ích Tuyệt Vời Từ  <br class="mb-display-none"/> Google Maps</h1>
                     </div>
                 </div>
-                <div class="container flex" style="flex-wrap: wrap;">
-                    <div class="w-33 elementor-element-11 animation-transform">
+                <div class="container flex mobile-wrap" style="flex-wrap: wrap;">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -80,7 +80,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -101,7 +101,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -121,7 +121,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -143,7 +143,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -163,7 +163,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -188,11 +188,11 @@ if ( ! defined( 'ABSPATH' )){
                 </div>
         </section>
         <section id="section-3">
-            <div class="container flex">
-                <div class="w-45">
+            <div class="container flex mobile-wrap">
+                <div class="w-45 mobile-w100">
                     <div>
-                        <h5 class="h5-1001 mg-b-0">DỊCH VỤ</h5>
-                        <h1 class="h1-1001 mg-t-0">
+                        <h5 class="h5-1001 mg-b-0 text-mb-center ">DỊCH VỤ</h5>
+                        <h1 class="h1-1001 mg-t-0 cl-title-mb">
                             Review Google Maps
                         </h1>
                         <p class="p-1002" style="color: #525F81;">Như đã đề cập bên trên, những review (đánh giá) tích cực trên Google Maps sẽ giúp tăng uy tín cho doanh nghiệp của bạn.</p>
@@ -201,7 +201,7 @@ if ( ! defined( 'ABSPATH' )){
                             phẩm, dịch vụ đó. </p>
                     </div>
                 </div>
-                <div class="w-55">
+                <div class="w-55 mobile-w100">
                     <div>
                         <img style="float: right; width: 100%; max-width: 500px;" src="https://izisolution.xyz/wp-content/uploads/2021/02/lq-0003-min.jpg" />
                     </div>
@@ -209,16 +209,16 @@ if ( ! defined( 'ABSPATH' )){
             </div>
         </section>
         <section id="section-5">
-            <div class="container flex">
-                <div class="w-50">
+            <div class="container flex mobile-wrap">
+                <div class="w-50 mobile-w100">
                     <div>
                         <img style="float: left; width: 100%; max-width: 500px;" src="https://izisolution.xyz/wp-content/uploads/2021/02/lq-0004-min.jpg" />
                     </div>
                 </div>
-                <div class="w-50">
+                <div class="w-50 mobile-w100">
                     <div>
-                        <h5 class="h5-1001 mg-b-10 ma-t-0">VÌ SAO</h5>
-                        <h2 class="h2-1002 mg-t-10">Cần Tăng Đánh Giá Google Map?</h2>
+                        <h5 class="h5-1001 mg-b-10 ma-t-0 text-mb-center ">VÌ SAO</h5>
+                        <h2 class="h2-1002 mg-t-10 cl-title-mb">Cần Tăng Đánh Giá Google Map?</h2>
                         <p style="color: #525F81;">Đánh giá Google Map tốt là công cụ khẳng định thương hiệu công ty. Giúp bạn thể hiện mình là một công ty đầy uy tín nhận được sự yêu mến của các khách hàng. Người mua hàng sẽ có niềm tin vào chất lượng dịch vụ mà nơi bạn cung cấp
                             là tốt nhất.
                         </p>

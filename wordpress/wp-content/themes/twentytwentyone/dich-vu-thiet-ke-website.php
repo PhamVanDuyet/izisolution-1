@@ -8,9 +8,9 @@ if ( ! defined( 'ABSPATH' )){
 <div class="container flex mobile-wrap">
 <div class="w-45 mobile-w100">
 <div>
-<h1 class="h1-1001 mg-b-25 mobile-fz-30" style="color: #313e5b;">Thiết Kế</h1>
+<h1 class="h1-1001 mg-b-25 mobile-fz-30 mb-mg-b-0" style="color: #313e5b;">Thiết Kế</h1>
 <h1 class="h1-1002 mobile-fz-50" style="margin: 0px;">Website</h1>
-<p class="p-1002 mg-t-50 color-525F81">Đến với JinJoo Marketing, bạn sẽ được tư vấn hỗ trợ và nhận được các giải pháp thiết kế Website tối ưu và hiệu quả nhất bởi đội ngũ nhân viên JinJoo Marketing dày dặn kinh nghiệm thực chiến. Toàn bộ Website mà JinJoo Marketing thiết kế sẽ đảm bảo chuẩn SEO, chuẩn HTML 5 - CSS 3 - W3C.</p>
+<p class="p-1002 mg-t-50 color-525F81 mb-mg-t-0">Đến với JinJoo Marketing, bạn sẽ được tư vấn hỗ trợ và nhận được các giải pháp thiết kế Website tối ưu và hiệu quả nhất bởi đội ngũ nhân viên JinJoo Marketing dày dặn kinh nghiệm thực chiến. Toàn bộ Website mà JinJoo Marketing thiết kế sẽ đảm bảo chuẩn SEO, chuẩn HTML 5 - CSS 3 - W3C.</p>
 
 </div>
 <div class="flex mg-t-60">
@@ -25,8 +25,8 @@ if ( ! defined( 'ABSPATH' )){
 <div class="container flex mobile-wrap">
 <div class="w-40 mobile-w100">
 <div>
-<h5 class="h5-1001 mg-b-10 ma-t-0">LỢI ÍCH</h5>
-<h2 class="h2-1002 mg-t-10">Khi Thiết Kế Web Tại JinJoo Marketing</h2>
+<h5 class="h5-1001 mg-b-10 ma-t-0 text-mb-center text-mb-center">LỢI ÍCH</h5>
+<h2 class="h2-1002 mg-t-10 cl-title-mb">Khi Thiết Kế Web Tại JinJoo Marketing</h2>
 </div>
 <div>
 <ul class="elementor-icon-list-items-01 mg-t-37">
@@ -39,7 +39,7 @@ if ( ! defined( 'ABSPATH' )){
 </div>
 <div><img width="100%" src="https://wsu.vn/wp-content/uploads/2020/08/wsu-loiichthietkeweb.png" alt="" /></div>
 </div>
-<div class="w-60 mobile-w100 flex mobile-wrap" style="height: max-content;">
+<div class="w-60 mobile-w100 flex mobile-wrap" style="height: max-content; flex-wrap: wrap;">
 <div class="w-45 mobile-w100 elementor-element-11 animation-transform" style="box-shadow: none;">
 <div class="pd-15 elementor-column-i12">
 <div class="elementor-element-i12">
@@ -126,8 +126,8 @@ if ( ! defined( 'ABSPATH' )){
 <div class="container" style="display: block;">
 <div class="w-100">
 <div style="max-width: 850px; margin-left: auto; margin-right: auto; text-align: center;">
-<h5 class="h5-1001">LĨNH VỰC THIẾT KẾ</h5>
-<h1 class="h1-1003">Kinh Nghiệm Nhiều Năm Trong Các Ngành Nghề Doanh Nghiệp</h1>
+<h5 class="h5-1001 text-mb-center text-mb-center">LĨNH VỰC THIẾT KẾ</h5>
+<h1 class="h1-1003 cl-title-mb">Kinh Nghiệm Nhiều Năm Trong Các Ngành Nghề Doanh Nghiệp</h1>
 </div>
 </div>
 <div class="flex w-100" style="flex-wrap: wrap;">
@@ -292,8 +292,8 @@ if ( ! defined( 'ABSPATH' )){
 <div class="container" style="display: block;">
 <div class="w-100">
 <div style="max-width: 850px; margin-left: auto; margin-right: auto; text-align: center;">
-<h5 class="h5-1001">QUY TRÌNH THIẾT KẾ</h5>
-<h1 class="h1-1003">Các Bước Để Xây Dựng Một Website Chuyên Nghiệp</h1>
+<h5 class="h5-1001 text-mb-center text-mb-center">QUY TRÌNH THIẾT KẾ</h5>
+<h1 class="h1-1003 cl-title-mb">Các Bước Để Xây Dựng Một Website Chuyên Nghiệp</h1>
 </div>
 </div>
 <div class="flex mobile-wrap" style="justify-content: space-between;">
@@ -419,13 +419,13 @@ if ( ! defined( 'ABSPATH' )){
 <div class="container" style="display: block;">
 <div class="w-100">
 <div style="max-width: 850px; margin-left: auto; margin-right: auto; text-align: center;">
-<h5 class="h5-1001">DỰ ÁN CỦA CHÚNG TÔI</h5>
-<h1 class="h1-1003">Những Dự Án Tiêu Biểu</h1>
+<h5 class="h5-1001 text-mb-center">DỰ ÁN CỦA CHÚNG TÔI</h5>
+<h1 class="h1-1003 cl-title-mb">Những Dự Án Tiêu Biểu</h1>
 </div>
 <div class="pd-t-30">
 <div class="slideshow-container" data-cycle="2000">
 <div class="mySlides fade">
-<div class="container flex">
+<div class="container flex mobile-wrap">
 <div class="w-45 mobile-w100">
 <div>
 <h1 class="h1-1004 mg-b-25" style="color: #313e5b; font-weight: 400;">DỰ ÁN WEB MỸ PHẨM SEOUL BEAUTIFUL</h1>
@@ -440,7 +440,7 @@ if ( ! defined( 'ABSPATH' )){
 </div>
 </div>
 <div class="mySlides fade">
-<div class="container flex">
+<div class="container flex mobile-wrap">
 <div class="w-45 mobile-w100">
 <div>
 <h1 class="h1-1004 mg-b-25" style="color: #313e5b; font-weight: 400;">DỰ ÁN GAME TRỰC TUYẾN MAY MẮN 789</h1>
@@ -455,7 +455,7 @@ if ( ! defined( 'ABSPATH' )){
 </div>
 </div>
 <div class="mySlides fade">
-<div class="container flex">
+<div class="container flex mobile-wrap">
 <div class="w-45 mobile-w100">
 <div>
 <h1 class="h1-1004 mg-b-25" style="color: #313e5b; font-weight: 400;">DỰ ÁN SPA CHĂM SÓC DA ME DAY SKINCARE</h1>
@@ -470,7 +470,7 @@ if ( ! defined( 'ABSPATH' )){
 </div>
 </div>
 <div class="mySlides fade">
-<div class="container flex">
+<div class="container flex mobile-wrap">
 <div class="w-45 mobile-w100">
 <div>
 <h1 class="h1-1004 mg-b-25" style="color: #313e5b; font-weight: 400;">DỰ ÁN SẢN PHẨM CHĂM SÓC DA ROSIE SKIN</h1>
@@ -485,7 +485,7 @@ if ( ! defined( 'ABSPATH' )){
 </div>
 </div>
 <div class="mySlides fade">
-<div class="container flex">
+<div class="container flex mobile-wrap">
 <div class="w-45 mobile-w100">
 <div>
 <h1 class="h1-1004 mg-b-25" style="color: #313e5b; font-weight: 400;">DỰ ÁN WEB TÓC GIẢ ALTERMODE</h1>
@@ -500,7 +500,7 @@ if ( ! defined( 'ABSPATH' )){
 </div>
 </div>
 <div class="mySlides fade">
-<div class="container flex">
+<div class="container flex mobile-wrap">
 <div class="w-45 mobile-w100">
 <div>
 <h1 class="h1-1004 mg-b-25" style="color: #313e5b; font-weight: 400;">DỰ ÁN CĂN HỘ CHO THUÊ JINJOO HOME</h1>
@@ -515,7 +515,7 @@ if ( ! defined( 'ABSPATH' )){
 </div>
 </div>
 <div class="mySlides fade">
-<div class="container flex">
+<div class="container flex mobile-wrap">
 <div class="w-45 mobile-w100">
 <div>
 <h1 class="h1-1004 mg-b-25" style="color: #313e5b; font-weight: 400;">DỰ ÁN WEB BÁN TÓC GIẢ HAIR ALL YOURS</h1>
@@ -530,7 +530,7 @@ if ( ! defined( 'ABSPATH' )){
 </div>
 </div>
 <div class="mySlides fade">
-<div class="container flex">
+<div class="container flex mobile-wrap">
 <div class="w-45 mobile-w100">
 <div>
 <h1 class="h1-1004 mg-b-25" style="color: #313e5b; font-weight: 400;">DỰ ÁN THƯƠNG HIỆU MỸ PHẨM HÀN QUỐC JINJOO BEAUTY</h1>
@@ -699,16 +699,68 @@ Banner Thiết Kế 2
 </div>
 </div>
 <div style="position: relative; text-align: center;">
-<div class="elementor-button-wrapper pd-b-30" style="text-align: center; width: 100%;"><a href="#">Tư vấn ngay</a></div>
+<div class="elementor-button-wrapper pd-b-30" style="text-align: center; width: 100%;"><a id="myBtn">Tư vấn ngay</a></div>
 </div>
 </div>
 </div>
+<div id="myModal" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-box">
+		<div class="box-col-1">
+			<div style="text-align: center">
+				<div style="font-size: 170px; margin-top: calc(100% - 85px);">
+					<svg style="width: 1em; height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.95 129.01"><defs><style>.cls-1{fill:#0070e8}.cls-2{fill:#0052b2}.cls-14,.cls-20,.cls-3{fill:#003474}.cls-4{fill:#ffb59d}.cls-5{fill:#ffd4b1}.cls-13,.cls-6{fill:#59b0f8}.cls-7{fill:#fff}.cls-8{fill:none;stroke:#0052b2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}.cls-9{opacity:.2}.cls-10,.cls-11,.cls-16{fill:#170531}.cls-11,.cls-13{font-size:11.44px}.cls-11,.cls-13,.cls-16,.cls-20{font-family:BebasKai}.cls-12,.cls-14{font-size:7.15px}.cls-15{fill:#3fa9f5;letter-spacing:0}.cls-16,.cls-20{font-size:3.76px}.cls-17{letter-spacing:.01em}.cls-18,.cls-19{letter-spacing:0}</style></defs><title>yeu cau tu van</title><g id="Layer_2" data-name="Layer 2"><g id="OBJECTS"><g id="DESK_ITEMS" data-name="DESK ITEMS"><path d="M106.46 117.64h22.24v3.4h-22.24z" class="cls-1"></path><path d="M107.15 114.24h22.24v3.4h-22.24z" class="cls-2"></path><path d="M106.46 110.84h22.24v3.4h-22.24z" class="cls-3"></path><g id="V"><path d="M119.16 97.36v-.09l-.32.04-.33-.04v.09l-5.84.79 1.75 12.69h8.83L125 98.15l-5.84-.79z" class="cls-2"></path><path d="M112.46 94.63h12.76v1.76h-12.76z" class="cls-1"></path><path d="M119.16 97.27l-.32.04-.33-.04v.09l-5.84.79.13.87h12.08l.12-.87-5.84-.79v-.09z" class="cls-3"></path><path d="M111.27 96.39h15.14v1.76h-15.14z" class="cls-2"></path></g></g><g id="AGENT"><path d="M87.8 58.54s-2.21-5-.15-27.79S71 6.33 67.47 6.33 45.25 7.91 47.3 30.75s-.16 27.79-.16 27.79 2.54-1.31 2.89-2.77a19.78 19.78 0 0 0 0 2.77h7.28v-3.21l1.38 3.21h17.57l1.38-3.21v3.21h7.28a19.78 19.78 0 0 0 0-2.77c.35 1.46 2.88 2.77 2.88 2.77z" class="cls-3"></path><path d="M71.49 51.83h-7.8v7.22l3.95 1.23 3.85-1.23v-7.22z" class="cls-4"></path><path d="M82 29.38c-3.62-9.48-14.42-14.44-14.42-14.44s-10.79 5-14.43 14.44c-1.26 3.27-1.61 21.43 14.43 24.35C83.63 50.81 83.28 32.65 82 29.38z" class="cls-5"></path><path d="M51.86 28.57s-5.34 0-5.68 5.48 3.32 8.32 7.71 7.68a128.11 128.11 0 0 1-2.03-13.16zm31.46 0s5.35 0 5.68 5.48-3.31 8.32-7.71 7.68a124.92 124.92 0 0 0 2.03-13.16z" class="cls-6"></path><path d="M75.4 24.5s-2.86 5.2-5.77 6.66-4.53.58-2.48-2.19c-4.67 3.65-12.11 7.88-11.38 3.5-2.62 2.48-4.08 2-4.45-3.9C51 23.76 52.61 12 66.93 11c13.94-1 19.31 13.19 15.86 22-1.6.58-5.79-1.75-7.39-8.5z" class="cls-3"></path><path d="M81.34 15c-3.24-3.51-7.87-5.32-13.76-5.36h-.22c-5.89 0-10.52 1.85-13.75 5.36-5.61 6.08-4.92 15-4.89 15.4l2.62-.22c0-.08-.63-8.16 4.2-13.41 2.74-3 6.76-4.5 11.93-4.52s9.19 1.54 11.93 4.51c4.81 5.24 4.22 13.34 4.21 13.42l2.62.22c.03-.4.71-9.32-4.89-15.4z" class="cls-6"></path><ellipse cx="83.8" cy="39.71" class="cls-3" rx=".77" ry=".68"></ellipse><path d="M57.25 61.24s-7.42 4.38-10.11 7-6.6 20.89-6.6 20.89-10 14.66-14 19.66c1.31 3.5 8.4 7.36 8.4 7.36s3.79-4.09 11.08-11.89C52.29 97.6 69 74.15 69.83 74.58s16.48-5 16.48-5S85 66 77.86 61.24a19 19 0 0 1-10.28-.74z" class="cls-3"></path><path d="M63.69 56.87l3.95 3.41-3.95 7.96-6.44-7 6.44-4.37z" class="cls-7"></path><path d="M71.42 56.87l-3.95 3.41 3.95 7.96 6.44-7-6.44-4.37z" class="cls-7"></path><path d="M27.77 108.33s1.84 3.22 3.61 3.83c.62 1.62-1.91 3.18-1.91 3.18a3.13 3.13 0 0 0-1.84-2.45c-1.58-.51.14-4.56.14-4.56z" class="cls-4"></path><path d="M25.32 111.24c-1.71 0-7.91 1.53-5.57 8.72h11.14c2.34-7.19-3.89-8.72-5.57-8.72z" class="cls-3"></path><path d="M26.36 114.53c0 1.48-.47 2.67-1.05 2.67s-1-1.19-1-2.67.46-2.68 1-2.68 1.05 1.2 1.05 2.68z" class="cls-1"></path><path d="M27.5 107.52c-.48-.16-1.81-.25-2.27 1.89s-.1 4.84 1.17 4.75 1.68-2.43 1.71-3.94.03-2.49-.61-2.7z" class="cls-5"></path><path d="M23.81 109c-.46 0-1.62.35-1.34 2.33s1.42 4.18 2.48 3.71.69-2.61.24-3.92-.75-2.12-1.38-2.12z" class="cls-5"></path><path d="M20.17 111.34c-.37.26-1.18 1.16-.06 2.56s3.06 2.49 3.72 1.55-.61-2.43-1.57-3.2-1.58-1.25-2.09-.91zm12.71.94c-.37-.24-1.46-.65-2.32.84s-1.16 3.6-.08 3.86 1.95-1.38 2.31-2.51.58-1.86.09-2.19z" class="cls-5"></path><path d="M36.49 120.5c0 .3-1.8.54-4 .54H18.13c-2.2 0-4-.24-4-.54s1.8-.54 4-.54h14.36c2.2.04 4 .24 4 .54z" class="cls-6"></path><path d="M79.36 98.81c6.1-9.19 4.69-17.47 4.69-17.47L67.8 74.05v-.78l-.88.39-.88-.39v.78l-16.23 7.29s-1.41 8.28 4.69 17.47C48.14 112.7 44.92 121 44.92 121h44s-3.2-8.3-9.56-22.19z" class="cls-3"></path><path d="M83.8 39.8s.47 10.28-10.91 10.28" class="cls-8"></path><path d="M74.23 49.84c0 .59-1.23 1.07-2.74 1.07s-2.74-.48-2.74-1.07 1.23-1.07 2.74-1.07 2.74.48 2.74 1.07z" class="cls-3"></path><path d="M86.68 55.58s-2-6.2-3.29-6.75-6.42-4-7.33-2.61c-1.19 1.83 4.77 3.87 4.77 3.87s-4.36 1.76-3.59 4.25c.64 2 1.61 2.92 2.14.95-.24 3.32 1.3 2.37 1.3 2.37a39.12 39.12 0 0 0 6-2.08z" class="cls-5"></path><path d="M101.12 76L87 54.75s-4.47-1.55-7.36 3.49c3.11 7.35 10.67 26 10.67 26s15.42 6.09 10.81-8.24z" class="cls-2"></path></g><g id="MONITOR"><path d="M104.44 65.62H30.57c-.66 0-2.55.47-2.33 3s4.89 37.14 5.33 39 2.57-.25 4.12-.25h29a1.31 1.31 0 0 0 1.37-1.36c7.2 0 27.82 1.45 29.12 1.45 1.55 0 3.81.72 4.25-1.16s5.28-35.11 5.5-37.7-1.57-2.98-2.49-2.98z" class="cls-6"></path><path d="M104.69 68.68H30.34c-.65 0-2 .44-1.75 2.84s4.16 33.91 4.6 35.66 1.31 2.4 2.84 2.4H99c1.53 0 2.4-.65 2.84-2.4s4.38-33.25 4.59-35.66-1.08-2.84-1.74-2.84z" class="cls-2"></path><path d="M62.63 91.79h9.92v27.48h-9.92z" class="cls-1"></path><path d="M62.63 91.79h9.92v1.9h-9.92zm18.45 27.94c0 .72-1.8 1.31-4 1.31h-19c-2.2 0-4-.59-4-1.31s1.8-1.31 4-1.31h19c2.2 0 4 .58 4 1.31z" class="cls-6"></path></g><g id="TABLE"><path d="M0 121.04h135.95v6.42H0z" class="cls-2"></path><path d="M0 122.93h135.95v4.53H0z" class="cls-1"></path><path d="M3.7 127.46h128.48v1.55H3.7z" class="cls-3"></path></g><g id="BUBBLE"><g class="cls-9"><path d="M40.59 53.83L37 48a12.51 12.51 0 0 0 .72-4.17 12.39 12.39 0 1 0-3.83 8.94z" class="cls-10"></path><text class="cls-11" transform="translate(16.22 44.76)">24<tspan class="cls-12"><tspan x="-5.82" y="6.16"> 7</tspan></tspan></text><path d="M35.41 38.84L22 52.25m13.15-13.67L23.41 50.32 21.74 52c-.35.34.18.87.53.53L34 40.78l1.67-1.67a.38.38 0 0 0-.53-.53z" class="cls-10"></path></g><path d="M40.59 51.83L37 46a12.51 12.51 0 0 0 .72-4.17 12.39 12.39 0 1 0-3.83 8.94z" class="cls-7"></path><text class="cls-13" transform="translate(16.22 42.76)">24<tspan class="cls-14"><tspan x="-5.82" y="6.16"> </tspan><tspan x="13.89" y="6.16" class="cls-15">7</tspan></tspan></text><path d="M35.41 36.84L22 50.25m13.15-13.67L23.41 48.32 21.74 50c-.35.34.18.87.53.53L34 38.78l1.67-1.67a.38.38 0 0 0-.53-.53z" class="cls-3"></path></g><g id="BUBBLE-2" data-name="BUBBLE"><g class="cls-9"><path d="M93 30.17l3.63-5.84a12.57 12.57 0 0 1-.72-4.18 12.39 12.39 0 1 1 3.83 8.94z" class="cls-10"></path><path d="M101.49 19.65h10.9v.88h-10.9zm0 1.67h13.83v.88h-13.83zm0 1.58h13.83v.88h-13.83zm0 1.52h13.83v.88h-13.83z" class="cls-10"></path><text class="cls-16" transform="translate(99.05 18.22)"><tspan class="cls-17">N</tspan><tspan x="2.51" y="0" class="cls-18">hận tư </tspan><tspan x="13.42" y="0" class="cls-19">v</tspan><tspan x="15.22" y="0">ấn</tspan></text></g><path d="M93 28.17l3.63-5.84a12.57 12.57 0 0 1-.72-4.18 12.39 12.39 0 1 1 3.83 8.94z" class="cls-7"></path><path d="M101.49 17.65h10.9v.88h-10.9zm0 1.67h13.83v.88h-13.83zm0 1.58h13.83v.88h-13.83zm0 1.52h13.83v.88h-13.83z" class="cls-6"></path><text class="cls-20" transform="translate(99.05 16.22)"><tspan class="cls-17">N</tspan><tspan x="2.51" y="0" class="cls-18">hận tư </tspan><tspan x="13.42" y="0" class="cls-19">v</tspan><tspan x="15.22" y="0">ấn</tspan></text></g><g id="SPARKLES"><path d="M35.59 5.14c0-.22-1.62-1.61-1.62-1.61a5.27 5.27 0 0 1-1.32-1.73A10.09 10.09 0 0 0 31.57 0a12.15 12.15 0 0 0-1.23 2A5.19 5.19 0 0 1 29 3.72s-1.43 1.2-1.44 1.43c0 .23 1.61 1.61 1.61 1.61a5.28 5.28 0 0 1 1.32 1.74 9.54 9.54 0 0 0 1.09 1.79 11.61 11.61 0 0 0 1.22-2 5.26 5.26 0 0 1 1.35-1.71s1.43-1.19 1.44-1.43zm6.16 4.09c0-.15-1.08-1.08-1.08-1.08A3.42 3.42 0 0 1 39.79 7a6.43 6.43 0 0 0-.73-1.2 8.77 8.77 0 0 0-.81 1.35 3.49 3.49 0 0 1-.9 1.13s-1 .8-1 1c0 .15 1.08 1.07 1.08 1.07a3.56 3.56 0 0 1 .88 1.16 6.43 6.43 0 0 0 .73 1.2 8.77 8.77 0 0 0 .81-1.35 3.49 3.49 0 0 1 .9-1.13s1-.8 1-1zm58.34 39.4c0-.2 1.39-1.39 1.39-1.39a4.52 4.52 0 0 0 1.13-1.49 8.56 8.56 0 0 1 .94-1.55 10.73 10.73 0 0 1 1 1.74 4.47 4.47 0 0 0 1.16 1.46s1.23 1 1.24 1.24c0 .19-1.39 1.38-1.39 1.38a4.62 4.62 0 0 0-1.14 1.49 8.48 8.48 0 0 1-.93 1.55 10.14 10.14 0 0 1-1.06-1.74 4.32 4.32 0 0 0-1.15-1.46s-1.23-1-1.24-1.23zm-5.3 3.51c0-.13.92-.92.92-.92a2.91 2.91 0 0 0 .76-1 5.7 5.7 0 0 1 .62-1 6.58 6.58 0 0 1 .71 1.16 2.9 2.9 0 0 0 .77 1s.82.69.82.82a6.65 6.65 0 0 1-.92.92 2.91 2.91 0 0 0-.76 1 6.06 6.06 0 0 1-.62 1 6.58 6.58 0 0 1-.71-1.12 2.9 2.9 0 0 0-.77-1s-.82-.69-.82-.82z" class="cls-7"></path></g></g></g></svg>
+				</div>
+			</div>
+		</div>
+		<div class="box-col-2">
+			<div>
+				<h2 class="modal-title">YÊU CẦU TƯ VẤN</h2>
+				<p class="modal-content">Nhập thông tin của bạn và nhận tư vấn từ chúng tôi hoàn toàn miễn phí.</p>
+				<div>
+					<?php echo do_shortcode( '[contact-form-7 id="47" title="Form 2"]' ); ?>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
 </section><section id="section-11">
 <div class="container" style="display: block;">
 <div class="w-100">
 <div style="max-width: 850px; margin-left: auto; margin-right: auto; text-align: center;">
-<h5 class="h5-1001">KHÁCH HÀNG</h5>
-<h1 class="h1-1003">Nói Gì Về Chúng Tôi</h1>
+<h5 class="h5-1001 text-mb-center">KHÁCH HÀNG</h5>
+<h1 class="h1-1003 cl-title-mb">Nói Gì Về Chúng Tôi</h1>
 </div>
 <div id="slideshow" class="pd-t-30">
 <div class="slide-wrapper">

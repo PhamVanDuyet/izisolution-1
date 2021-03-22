@@ -6,12 +6,12 @@ if ( ! defined( 'ABSPATH' )){
 <?php get_header(); ?>
 
 <section id="section-3">
-            <div class="container flex">
-                <div class="w-45">
+            <div class="container flex mobile-wrap">
+                <div class="w-45 mobile-w100">
                     <div>
-                        <h1 class="h1-1001 mg-b-25" style="color: #313E5B;">Tốc Độ Tải Website Của Bạn <span style="color: #33CC66">Chậm ?</span> </h1>
+                        <h1 class="h1-1001 mg-b-25 cl-title-mb" style="color: #313E5B;">Tốc Độ Tải Website Của Bạn <span style="color: #33CC66">Chậm ?</span> </h1>
 
-                        <p class="p-1002 mg-t-50 color-525F81">JinJoo có kinh nghiệm nhiều năm trong việc tối ưu tăng tốc website, chắc chắn chúng tôi sẽ mang lại cho bạn một website chuẩn SEO, tốc độ tải trang cực nhanh và bảo mật ở mức độ cao nhất.</p>
+                        <p class="p-1002 mg-t-50 mb-mg-t-0 color-525F81">JinJoo có kinh nghiệm nhiều năm trong việc tối ưu tăng tốc website, chắc chắn chúng tôi sẽ mang lại cho bạn một website chuẩn SEO, tốc độ tải trang cực nhanh và bảo mật ở mức độ cao nhất.</p>
                     </div>
                     <div class="flex mg-t-60">
                         <div class="elementor-button-wrapper">
@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' )){
                         </div>
                     </div>
                 </div>
-                <div class="w-55">
+                <div class="w-55 mobile-w100">
                     <div>
                         <img width="100%" style="float: right;" src="https://izisolution.xyz/wp-content/uploads/2021/02/ccd216418a987ac62389-min.jpg" />
                     </div>
@@ -27,16 +27,16 @@ if ( ! defined( 'ABSPATH' )){
             </div>
         </section>
         <section id="section-5">
-            <div class="container flex">
-                <div class="w-50">
+            <div class="container flex mobile-wrap">
+                <div class="w-50 mobile-w100">
                     <div>
                         <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
                     </div>
                 </div>
-                <div class="w-50">
+                <div class="w-50 mobile-w100">
                     <div>
-                        <h5 class="h5-1001 mg-b-10 ma-t-0">GIẢI THÍCH</h5>
-                        <h2 class="h2-1002 mg-t-10">Tốc Độ Tải Trang Là gì?</h2>
+                        <h5 class="h5-1001 mg-b-10 ma-t-0 text-mb-center">GIẢI THÍCH</h5>
+                        <h2 class="h2-1002 mg-t-10 cl-title-mb">Tốc Độ Tải Trang Là gì?</h2>
                         <p style="color: #525F81;">Tốc độ tải trang là chỉ số đo lường thời gian để trình duyệt tải xong URL trang web của bạn cho một lần xem cụ thể.
                         </p>
                     </div>
@@ -76,13 +76,13 @@ if ( ! defined( 'ABSPATH' )){
         <section id="section-4" class="class-0003">
             <div class="container" style="display: block;">
                 <div class="w-100">
-                    <div style="width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
+                    <div style="max-width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
                         <h5 class="h5-1001">LÝ DO</h5>
-                        <h1 class="h1-1003" style="margin-block-start: 0px;">Tại Sao Phải Cải Thiện Tốc Độ Tải Trang Tăng Chuyển Đổi</h1>
+                        <h1 class="h1-1003 cl-title-mb" style="margin-block-start: 0px;">Tại Sao Phải Cải Thiện Tốc Độ Tải Trang Tăng Chuyển Đổi</h1>
                     </div>
                 </div>
                 <div class="container flex" style="flex-wrap: wrap;">
-                    <div class="w-33 elementor-element-11 animation-transform">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -101,7 +101,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -120,7 +120,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -139,7 +139,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -159,7 +159,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -178,7 +178,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -200,11 +200,11 @@ if ( ! defined( 'ABSPATH' )){
                 </div>
         </section>
         <section id="section-6">
-            <div class="container flex">
-                <div class="w-50">
+            <div class="container flex mobile-wrap">
+                <div class="w-50 mobile-w100">
                     <div>
-                        <h5 class="h5-1001 mg-b-10 ma-t-0">HIỆU QUẢ</h5>
-                        <h2 class="h2-1002 mg-t-10">Cam Kết Chất Lượng</h2>
+                        <h5 class="h5-1001 mg-b-10 ma-t-0 text-mb-center">HIỆU QUẢ</h5>
+                        <h2 class="h2-1002 mg-t-10 cl-title-mb">Cam Kết Chất Lượng</h2>
                         <p style="color: #525F81;">Hoàn toàn yên tâm về chất lượng dịch vụ và chính sách hoàn tiền khi chưa đạt yêu cầu.</p>
                     </div>
                     <div class="mg-t-60 mg-b-50">
@@ -257,7 +257,7 @@ if ( ! defined( 'ABSPATH' )){
                         </div>
                     </div>
                 </div>
-                <div class="w-50">
+                <div class="w-50 mobile-w100">
                     <div>
                         <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/99d9fdd0ad055d5b0414-min.jpg" />
                     </div>
@@ -265,11 +265,11 @@ if ( ! defined( 'ABSPATH' )){
             </div>
         </section>
         <section id="section-3">
-            <div class="container flex">
-                <div class="w-40">
+            <div class="container flex mobile-wrap">
+                <div class="w-40 mobile-w100">
                     <div>
-                        <h5 class="h5-1001 mg-b-10 ma-t-0">QUY TRÌNH THỰC HIỆN</h5>
-                        <h2 class="h2-1002 mg-t-10">Chúng Tôi Làm Gì</h2>
+                        <h5 class="h5-1001 mg-b-10 ma-t-0 text-mb-center">QUY TRÌNH THỰC HIỆN</h5>
+                        <h2 class="h2-1002 mg-t-10 cl-title-mb">Chúng Tôi Làm Gì</h2>
                     </div>
                     <div class="mg-t-60 mg-b-50">
                         <ul class="elementor-icon-list-items">
@@ -284,7 +284,7 @@ if ( ! defined( 'ABSPATH' )){
                         </ul>
                     </div>
                 </div>
-                <div class="w-60 flex" style="flex-wrap: wrap;">
+                <div class="w-60 mobile-w100 flex class-00015" style="flex-wrap: wrap;">
                     <div class="w-44 elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12">
                             <div class="elementor-element-i12">
@@ -424,13 +424,13 @@ if ( ! defined( 'ABSPATH' )){
         <section id="section-10" class="class-0009">
             <div class="container" style="display: block;">
                 <div class="w-100">
-                    <div style="width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
+                    <div style="max-width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
                         <h5 class="h5-1001">LỢI ÍCH</h5>
-                        <h1 class="h1-1003">Chất Lượng Vượt Trội</h1>
+                        <h1 class="h1-1003 cl-title-mb">Chất Lượng Vượt Trội</h1>
                     </div>
                 </div>
                 <div class="flex w-100" style="flex-wrap: wrap;">
-                    <div class="w-33 elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -449,7 +449,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -468,7 +468,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -487,7 +487,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -506,7 +506,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -525,7 +525,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -555,38 +555,18 @@ if ( ! defined( 'ABSPATH' )){
             </div>
         </section>
         <section>
-            <div class="container flex pd-t-50 pd-b-50">
-                <div class="w-59 pd-r-60">
+            <div class="container flex pd-t-50 pd-b-50 mobile-wrap">
+                <div class="w-59 mobile-w100 pd-r-60 mb-pd-r-0">
                     <div class="w-100">
-                        <div>
-                            <h5 class="h5-1001">BẢNG GIÁ</h5>
-                            <h1 class="h1-1003">Dịch Vụ Tối Ưu & Tăng Tốc Website</h1>
-                            <p class="mg-t-50">Vui lòng nhập thông tin website của bạn vào bên dưới. Chúng tôi sẽ gửi đánh giá website của bạn và sẽ gửi chúng qua emai.</p>
-                            <div class="mg-t-20">
-                                <form action="/vi/home-vn/#wpcf7-f4070-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-                                    <p style="margin: 0 0 15px">
-                                        <span class="wpcf7-form-control-wrap your-name class-0006"><input type="email" name="your-name" value="" size="40" class=" input-wpcf7-text wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Website"></span>
-                                    </p>
-                                    <p style="margin: 0 0 15px">
-                                        <span class="wpcf7-form-control-wrap your-email class-0006"><input type="email" name="your-email" value="" size="40" class=" input-wpcf7-text wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Số điện thoại"></span>
-                                    </p>
-                                    <p style="margin: 0 0 15px">
-                                        <span class="wpcf7-form-control-wrap your-email class-0006"><input type="email" name="your-email" value="" size="40" class=" input-wpcf7-text wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email"></span>
-                                    </p>
-                                    <div style="width: max-content;">
-                                        <div class="elementor-button-wrapper mg-t-10" style="text-align: center;">
-                                            <a href="#" class="flex">
-                                                <span class="mg-r-15"><i aria-hidden="true" class="fas fa-tachometer-alt"></i></span>
-                                                <span>Phân tích Website của tôi</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
+                        <h5 class="h5-1001 text-mb-center">BẢNG GIÁ</h5>
+                        <h1 class="h1-1003 cl-title-mb">Dịch Vụ Tối Ưu & Tăng Tốc Website</h1>
+                        <p class="mg-t-50">Vui lòng nhập thông tin website của bạn vào bên dưới. Chúng tôi sẽ gửi đánh giá website của bạn và sẽ gửi chúng qua emai.</p>
+                        <div class="mg-t-20 class-234232">
+                            <?php echo do_shortcode( '[contact-form-7 id="47" title="Form 2"]' ); ?>
                         </div>
                     </div>
                 </div>
-                <div class="w-40 cl-box">
+                <div class="w-40 mobile-w100 cl-box">
                     <div class="class-0007">
                         <div class="pd-t-50">
                             <h5 class="h5-1001 mg-b-0" style="text-align: center;">NHANH</h5>
@@ -602,10 +582,6 @@ if ( ! defined( 'ABSPATH' )){
                             <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Tối Ưu Cơ Sở Dữ Liệu</li>
                             <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Cân Bằng Tải (CDN)</li>
                             <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Tối Ưu Hosting</li>
-                            <!-- <li class="class-0008"><strong><i class="fas fa-check" style="color: #525F81;"></i></strong>Cam Kết PageSpeed Insights >90</li>
-                            <li class="class-0008"><strong><i class="fas fa-check" style="color: #525F81;"></i></strong>Cam Kết GTmetrix 90% (A)</li>
-                            <li class="class-0008"><strong><i class="fas fa-check" style="color: #525F81;"></i></strong>Cam Kết Pingdom Tool >90</li> -->
-
                         </ul>
                         <div>
                             <div class="elementor-button-wrapper mg-t-40 mg-b-40" style="text-align: center;">
@@ -614,112 +590,23 @@ if ( ! defined( 'ABSPATH' )){
                         </div>
                     </div>
                 </div>
-                <!-- <div class="w-27 cl-box mg-15">
-                    <div class="class-0007">
-                        <div class="pd-t-40">
-                            <h5 class="h5-1001 mg-b-0" style="text-align: center;">NHANH HƠN NỮA</h5>
-                            <h2 class="h2-1001 mg-t-20" style="text-align: center;">2.990.000</h2>
-                        </div>
-                        <ul>
-                            <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Tối ưu hoá hình ảnh</li>
-                            <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Tối Ưu Html</li>
-                            <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Tối Ưu JavaScript</li>
-                            <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Tối Ưu CSS</li>
-                            <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Cài Đặt Bộ Nhớ Đệm</li>
-                            <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Tối Ưu Hoá Tìm Kiếm (SEO)</li>
-                            <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Tối Ưu Cơ Sở Dữ Liệu</li>
-                            <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Cân Bằng Tải (CDN)</li>
-                            <li><strong><i class="fas fa-check" style="color: #33CC66;"></i></strong>Tối Ưu Hosting</li>
-                            <li><strong><i class="fas fa-check" style="color: #33CC66;;"></i></strong>Cam Kết PageSpeed Insights >90</li>
-                            <li><strong><i class="fas fa-check" style="color: #33CC66;;"></i></strong>Cam Kết GTmetrix 90% (A)</li>
-                            <li><strong><i class="fas fa-check" style="color:  #33CC66;;"></i></strong>Cam Kết Pingdom Tool >90</li>
-
-                        </ul>
-                        <div>
-                            <div class="elementor-button-wrapper mg-t-40 mg-b-40" style="text-align: center;">
-                                <a href="#"><span>Đăng Ký</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
             </div>
         </section>
-        <!-- <section>
-            <div class="container" style="display: block;">
-                <div class="w-100">
-                    <div style="width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
-                        <h5 class="h5-1001">QUY TRÌNH THIẾT KẾ</h5>
-                        <h1 class="h1-1003">Các Bước Để Xây Dựng Một Website Chuyên Nghiệp</h1>
-                    </div>
-                </div>
-                <div class="w-100">
-                    <div class="tab">
-                        <button class="tablinks active" onclick="openCity(event, 'London')">GT Metrix</button>
-                        <button class="tablinks" onclick="openCity(event, 'Paris')">Pingdom</button>
-                        <button class="tablinks" onclick="openCity(event, 'Tokyo')">Google Page Speed</button>
-                    </div>
-                    <div id="London" style="display: block;" class="tabcontent pd-t-30">
-                        <div>
-                            <img src="https://wsu.vn/wp-content/uploads/2020/08/svgs_collection.svg" class="attachment-full size-full" alt="svgs collection - WSU.VN" loading="lazy" title="Dịch vụ tối ưu website"> </div>
-                    </div>
 
-                    <div id="Paris" class="tabcontent pd-t-30">
-                        <div>
-                            <img src="https://wsu.vn/wp-content/uploads/2020/08/pingdom-01.svg" class="attachment-full size-full" alt="pingdom 01 - WSU.VN" loading="lazy" title="Dịch vụ tối ưu website">
-                        </div>
-                    </div>
-
-                    <div id="Tokyo" class="tabcontent pd-t-30">
-                        <div>
-                            <img src="https://wsu.vn/wp-content/uploads/2020/08/google-02.svg" class="attachment-full size-full" alt="google 02 - WSU.VN" loading="lazy" title="Dịch vụ tối ưu website">
-                        </div>
-                    </div>
-                    <div>
-                        <div class="elementor-button-wrapper mg-t-40 mg-b-40" style="text-align: center;">
-                            <a href="#">
-                                <span>Sau khi tối ưu</span>
-                            </a>
-                        </div>
-                    </div>
-                    <script>
-                        function openCity(evt, cityName) {
-                            var i, tabcontent, tablinks;
-                            tabcontent = document.getElementsByClassName("tabcontent");
-                            for (i = 0; i < tabcontent.length; i++) {
-                                tabcontent[i].style.display = "none";
-                            }
-                            console.log(cityName);
-                            if (cityName == "Paris" || cityName == "Tokyo") {
-                                document.getElementById("London").style.display = "none";
-                            }
-                            document.getElementById(cityName).style.display = "block";
-
-
-                            tablinks = document.getElementsByClassName("tablinks");
-                            for (i = 0; i < tablinks.length; i++) {
-                                tablinks[i].className = tablinks[i].className.replace(" active", "");
-                            }
-
-                            evt.currentTarget.className += " active";
-                        }
-                    </script>
-                </div>
-            </div>
-        </section> -->
         <section>
             <div class="container" style="display: block;">
                 <div class="w-100">
-                    <div style="width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
+                    <div style="max-width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
                         <h5 class="h5-1001">KHÁCH HÀNG</h5>
-                        <h1 class="h1-1003">Nói Gì Về Chúng Tôi</h1>
+                        <h1 class="h1-1003 cl-title-mb">Nói Gì Về Chúng Tôi</h1>
                     </div>
                 </div>
                 <div class="pd-t-30">
                     <div class="slideshow-container">
 
                         <div class="mySlides fade">
-                            <div class="container flex" style="justify-content: space-between;">
-                                <div class="w-47 mg-center box-shadow pd-30">
+                            <div class="container flex mobile-wrap" style="justify-content: space-between;">
+                                <div class="w-47 mobile-w100 mg-center box-shadow pd-30">
                                     <div style="text-align: center;">
                                         <span style="color: #313E5B;  ">
                                             “Vấn đề của tôi đã được giải quyết, các bạn hỗ trợ rất nhanh. Giờ website của tôi đã hoàn thiện hơn rất nhiều rồi.”
@@ -737,7 +624,7 @@ if ( ! defined( 'ABSPATH' )){
                                         <span style="color: #313E5B; font-size: 20px; ">Kinh doanh online</span>
                                     </div>
                                 </div>
-                                <div class="w-47 mg-center box-shadow pd-30">
+                                <div class="w-47 mobile-w100 mg-center box-shadow pd-30">
                                     <div style="text-align: center;">
                                         <span style="color: #313E5B;  ">
                                             “Vấn đề của tôi đã được giải quyết, các bạn hỗ trợ rất nhanh. Giờ website của tôi đã hoàn thiện hơn rất nhiều rồi.”

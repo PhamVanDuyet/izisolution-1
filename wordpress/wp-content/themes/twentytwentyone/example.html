@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html id="myDIV">
+
+<head>
+    <style>
+        #myDIV {
+            height: auto;
+            overflow: auto;
+        }
+        
+        #content {
+            background-color: coral;
+        }
+    </style>
+</head>
+
+<body onscroll="myFunction();">
+
+    <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+
+    <div>
+        <div id="content">Scroll inside me!
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <div id="section-2"></div>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+            <p>Scroll inside the div element to display the number of pixels the content of div is scrolled horizontally and vertically.</p>
+        </div>
+    </div>
+
+    <p id="demo" style="position: absolute;"></p>
+
+    <script>
+        function myFunction() {
+            document.getElementById("section-2").innerHTML = menuScroll;
+
+            var elmnt = document.getElementById("myDIV");
+            var y = elmnt.scrollTop;
+            var menuScroll1 = '<h1 style="height: 100px; transition: height 2s ease 3s;">ssssssssssssssssssssssssssss</h1>';
+            var menuScroll = '<h1 style="height: 200px;  transition: height 2s ease 3s;">111111111111111111</h1>';
+
+            if (y > 210) {
+                document.getElementById("section-2").innerHTML = menuScroll1;
+            } else {
+                document.getElementById("section-2").innerHTML = menuScroll;
+            };
+        }
+    </script>
+
+</body>
+
+</html>

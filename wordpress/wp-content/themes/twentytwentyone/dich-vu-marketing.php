@@ -6,16 +6,16 @@ if ( ! defined( 'ABSPATH' )){
 <?php get_header(); ?>
 
 <section id="section-5" >
-            <div class="container flex">
-                <div class="w-50">
+            <div class="container flex mobile-wrap">
+                <div class="w-50 mobile-w100">
                     <div>
                         <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
                     </div>
                 </div>
-                <div class="w-50">
+                <div class="w-50 mobile-w100">
                     <div>
                         <!-- <h5 class="h5-1001 mg-b-10 ma-t-0">VÌ SAO SỬ DỤNG DỊCH VỤ</h5> -->
-                        <h2 class="h2-1002 mg-t-10">DỊCH VỤ QUẢNG CÁO TRÊN GOOGLE ADS</h2>
+                        <h2 class="h2-1002 mg-t-10 cl-title-mb">DỊCH VỤ QUẢNG CÁO TRÊN GOOGLE ADS</h2>
 
                     </div>
                     <div class="mg-t-60 mg-b-50">
@@ -47,11 +47,11 @@ if ( ! defined( 'ABSPATH' )){
             </div>
         </section>
         <section id="section-5" style="margin-top: 0px; padding-top: 0px;">
-            <div class="container flex">
-                <div class="w-50">
+            <div class="container flex mobile-wrap">
+                <div class="w-50 mobile-w100">
                     <div>
-                        <h5 class="h5-1001 mg-b-10 ma-t-0">DỊCH VỤ</h5>
-                        <h2 class="h2-1002 mg-t-10">FACEBOOK ADS</h2>
+                        <h5 class="h5-1001 mg-b-10 ma-t-0 text-mb-center">DỊCH VỤ</h5>
+                        <h2 class="h2-1002 mg-t-10 cl-title-mb">FACEBOOK ADS</h2>
 
                     </div>
                     <div class="mg-t-60 mg-b-50">
@@ -60,7 +60,7 @@ if ( ! defined( 'ABSPATH' )){
                     </div>
                 </div>
 
-                <div class="w-50">
+                <div class="w-50 mobile-w100">
                     <div>
                         <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
                     </div>
@@ -68,16 +68,16 @@ if ( ! defined( 'ABSPATH' )){
             </div>
         </section>
         <section id="section-5" style="margin-top: 0px; padding-top:20px;">
-            <div class="container flex">
-                <div class="w-50">
+            <div class="container flex mobile-wrap">
+                <div class="w-50 mobile-w100">
                     <div>
                         <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
                     </div>
                 </div>
-                <div class="w-50">
+                <div class="w-50 mobile-w100">
                     <div>
-                        <h5 class="h5-1001 mg-b-10 ma-t-0">LỢI ÍCH</h5>
-                        <h2 class="h2-1002 mg-t-10">Khi Chọn Dịch Vụ Facebook Ads của JinJoo Marketing?</h2>
+                        <h5 class="h5-1001 mg-b-10 ma-t-0 text-mb-center">LỢI ÍCH</h5>
+                        <h2 class="h2-1002 mg-t-10 cl-title-mb">Khi Chọn Dịch Vụ Facebook Ads của JinJoo Marketing?</h2>
 
                     </div>
                     <div class="mg-t-60 mg-b-50">
@@ -110,12 +110,12 @@ if ( ! defined( 'ABSPATH' )){
         <section id="section-10" class="class-0009">
             <div class="container" style="display: block;">
                 <div class="w-100">
-                    <div style="width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
-                        <h1 class="h1-1003">Quy Trình Quảng Cáo Trên GOOGLE Của JINJOO MARKETING</h1>
+                    <div style="max-width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
+                        <h1 class="h1-1003 cl-title-mb">Quy Trình Quảng Cáo Trên GOOGLE Của JINJOO MARKETING</h1>
                     </div>
                 </div>
-                <div class="flex w-100" style="flex-wrap: wrap;">
-                    <div class="w-33 flex elementor-element-11 animation-transform" style="box-shadow: none;">
+                <div class="flex w-100 mobile-wrap" style="flex-wrap: wrap;">
+                    <div class="w-33 mobile-w100 flex elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -137,7 +137,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 flex elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 flex elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -158,7 +158,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 flex elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 flex elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -179,7 +179,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 flex elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 flex elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -200,7 +200,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 flex elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 flex elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -221,7 +221,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 flex elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 flex elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -247,16 +247,16 @@ if ( ! defined( 'ABSPATH' )){
             </div>
         </section>
         <section id="section-5">
-            <div class="container flex">
-                <div class="w-50">
+            <div class="container flex mobile-wrap">
+                <div class="w-50 mobile-w100">
                     <div>
                         <img width="100%" src="https://izisolution.xyz/wp-content/uploads/2021/02/faa10e445f91afcff680-min.jpg" />
                     </div>
                 </div>
-                <div class="w-50">
+                <div class="w-50 mobile-w100">
                     <div>
-                        <h5 class="h5-1001 mg-b-10 ma-t-0">DỊCH VỤ</h5>
-                        <h2 class="h2-1002 mg-t-10">Dịch Vụ Quản Lý Fanpage</h2>
+                        <h5 class="h5-1001 mg-b-10 ma-t-0 text-mb-center">DỊCH VỤ</h5>
+                        <h2 class="h2-1002 mg-t-10 cl-title-mb">Dịch Vụ Quản Lý Fanpage</h2>
                         <p style="color: #525F81;">Không phải ai cũng có đủ kinh nghiệm, thời gian để quản lý fanpage bán hàng của mình. Ngay lúc này, bạn nên nghĩ đến một dịch vụ quản lý fanpage facebook giá rẻ hiệu quả, chuyên nghiệp có thể giúp bạn tiết kiệm thời gian và đạthiệu suất cao.</p>
                     </div>
                     <div class="mg-t-40 mg-b-50">

@@ -8,12 +8,12 @@ if ( ! defined( 'ABSPATH' )){
 <section>
             <div class="container" style="display: block;">
                 <div class="w-100">
-                    <div style="width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
-                        <h1 class="h1-1003">Liên Hệ</h1>
+                    <div style="max-width: 850px; margin-left: auto; margin-right:auto; text-align: center;">
+                        <h1 class="h1-1003 cl-title-mb">Liên Hệ</h1>
                     </div>
                 </div>
-                <div class="flex w-100">
-                    <div class="w-33 elementor-element-11 animation-transform" style="box-shadow: none;">
+                <div class="flex w-100 mobile-wrap">
+                    <div class="w-33 mobile-w100 mb-mg-y-0 elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -37,7 +37,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 mb-mg-y-0 elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -62,7 +62,7 @@ if ( ! defined( 'ABSPATH' )){
                             </div>
                         </div>
                     </div>
-                    <div class="w-33 elementor-element-11 animation-transform" style="box-shadow: none;">
+                    <div class="w-33 mobile-w100 mb-mg-y-0 elementor-element-11 animation-transform" style="box-shadow: none;">
                         <div class="pd-15 elementor-column-i12 bg-fff" style="border-radius: 8px;">
                             <div class="elementor-element-i12">
                                 <div class="elementor-element-i13">
@@ -90,39 +90,14 @@ if ( ! defined( 'ABSPATH' )){
             </div>
         </section>
         <section class="pd-t-50 pd-b-50">
-            <div class="container flex">
-                <div class="w-50">
-                    <h1 class="h1-1003" style="text-align: center;">JinJoo Sẵn Sàng Hỗ Trợ</h1>
-                    <div class="mg-t-20">
-                        <form action="/vi/home-vn/#wpcf7-f4070-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-                            <div class="flex" style="justify-content: space-between;">
-                                <p class="w-48" style="margin: 0 0 15px">
-                                    <span class="wpcf7-form-control-wrap your-name class-0006"><input type="email" name="your-name" value="" size="40" class=" input-wpcf7-text wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Họ Tên"></span>
-                                </p>
-                                <p class="w-48" style="margin: 0 0 15px">
-                                    <span class="wpcf7-form-control-wrap your-email class-0006"><input type="email" name="your-email" value="" size="40" class=" input-wpcf7-text wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email"></span>
-                                </p>
-                            </div>
-                            <div class="flex" style="justify-content: space-between;">
-                                <p class="w-48" style="margin: 0 0 15px">
-                                    <span class="wpcf7-form-control-wrap your-name class-0006"><input type="email" name="your-name" value="" size="40" class=" input-wpcf7-text wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Số Điện Thoại"></span>
-                                </p>
-                                <p class="w-48" style="margin: 0 0 15px">
-                                    <span class="wpcf7-form-control-wrap your-email class-0006"><input type="email" name="your-email" value="" size="40" class=" input-wpcf7-text wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Tiêu Đề"></span>
-                                </p>
-                            </div>
-                            <div class="flex" style="justify-content: space-between;">
-                                <textarea class="textarea" name="form_fields[thong_diep]" id="form-field-thong_diep" rows="7" placeholder="Thông điệp"></textarea>
-                            </div>
-                            <div>
-                                <div class="elementor-button-wrapper mg-t-40 mg-b-40">
-                                    <a href="#"><span class="mg-r-15"><i aria-hidden="true" class="fab fa-telegram-plane"></i></span><span>Gửi đi</span></a>
-                                </div>
-                            </div>
-                        </form>
+            <div class="container flex mobile-wrap">
+                <div class="w-50 mobile-w100">
+                    <h1 class="h1-1003 cl-title-mb" style="text-align: center;">JinJoo Sẵn Sàng Hỗ Trợ</h1>
+                    <div class="class-234232 pd-l-10 pd-r-10">
+                        <?php echo do_shortcode( '[contact-form-7 id="46" title="Form 1"]' ); ?>
                     </div>
                 </div>
-                <div class="w-50 pd-l-40">
+                <div class="w-50 pd-l-40 mobile-w100">
                     <img width="100%" src="https://wsu.vn/wp-content/uploads/2020/09/wsu-lienhe-delailoinhan.png" alt="">
                 </div>
             </div>

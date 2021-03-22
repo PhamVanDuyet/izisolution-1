@@ -3,8 +3,8 @@
             <div class="container flex mobile-wrap">
                 <div class="w-45 mobile-w100">
                     <div>
-                        <h1 class="h1-1001">Giải Pháp Marketing Online Hiệu Quả</h1>
-                        <p class="color-525F81 p-1001">Mỗi khách hàng, mỗi chiến dịch mới với JinJoo Marketing luôn là một thử thách mới. Từng bộ phận, từng nhân viên của chúng tôi luôn sẵn sàng cùng bạn tạo nên một tuyệt tác mới.
+                        <h1 class="h1-1001 cl-title-mb">Giải Pháp Marketing Online Hiệu Quả</h1>
+                        <p class="color-525F81 p-1001 text-mb-center">Mỗi khách hàng, mỗi chiến dịch mới với JinJoo Marketing luôn là một thử thách mới. Từng bộ phận, từng nhân viên của chúng tôi luôn sẵn sàng cùng bạn tạo nên một tuyệt tác mới.
                         </p>
                     </div>
                     <div class="flex mg-t-60">
@@ -32,17 +32,17 @@
 
         <section id="section-4">
             <div class="class-00014 mobile-wrap container">
-                <div class="w-35 mobile-w100">
+                <div class="w-35 mobile-w100 mb-pd-x-0">
                     <div>
-                        <h5 class="h5-1001 mg-0">Bạn Cần Gì</h5>
+                        <h5 class="h5-1001 mg-0 text-mb-center">Bạn Cần Gì</h5>
                     </div>
                     <div>
-                        <h2 class="h2-1001 mg-t-15 mg-b-0" style="font-size:37px;">JinJoo Marketing Đều Có Thể Đáp Ứng</h2>
+                        <h2 class="h2-1001 mg-t-15 mg-b-0 cl-title-mb" style="font-size:37px;">JinJoo Marketing Đều Có Thể Đáp Ứng</h2>
                     </div>
                 </div>
-                <div class="w-65 mobile-w100 mg-l-20 mg-r-20">
+                <div class="w-65 mobile-w100 mg-l-20 mg-r-20 mb-pd-x-0">
                     <div>
-                        <h5 class="h5-1001">
+                        <h5 class="h5-1001 text-mb-center">
                             <em>Bạn cần một giải pháp Marketing Online hiệu quả? JinJoo Marketing đáp ứng những gì bạn cần: đội ngũ Marketer trẻ, đầy nhiệt huyết cùng kinh nghiệm thực chiến và bộ phận IT đã mang đến hơn 100 Website độc đáo, đầy sáng tạo.</em>
                         </h5>
                     </div>
@@ -153,8 +153,8 @@
             </div>
             <div class="w-50 mobile-w100">
                 <div>
-                    <h5 class="h5-1001 mg-b-10 ma-t-0">DỊCH VỤ</h5>
-                    <h2 class="h2-1002 mg-t-10">Thiết Kế Website</h2>
+                    <h5 class="h5-1001 mg-b-10 ma-t-0 text-mb-center">DỊCH VỤ</h5>
+                    <h2 class="h2-1002 mg-t-10 cl-title-mb">Thiết Kế Website</h2>
                     <p style="color: #525F81;">JinJoo Marketing đã thực hiện nhiều dự án với ngành nghề đa dạng như: mỹ phẩm, làm đẹp, bán hàng, bất động sản, vân vân.
                     </p>
                 </div>
@@ -205,8 +205,8 @@
         <div class="container flex mobile-wrap">
             <div class="w-50 mobile-w100">
                 <div>
-                    <h5 class="h5-1001 mg-b-10 ma-t-0">DỊCH VỤ</h5>
-                    <h2 class="h2-1002 mg-t-10">Tối Ưu & Tăng Tốc Website</h2>
+                    <h5 class="h5-1001 mg-b-10 ma-t-0 text-mb-center">DỊCH VỤ</h5>
+                    <h2 class="h2-1002 mg-t-10 cl-title-mb">Tối Ưu & Tăng Tốc Website</h2>
                     <p style="color: #525F81;">Chúng tôi đã thực hiện nhiều dự án với thiết kế chuyên nghiệp, với các bài toán phức tạp nhưng luôn có thiết kế tuyệt hảo, đảm bảo thân thiện với người sử dụng.</p>
                 </div>
                 <div class="mg-t-60 mg-b-50">
@@ -293,7 +293,7 @@
         <div class="container flex mobile-wrap">
             <div class="w-50 mobile-w100">
                 <div>
-                    <h2 class="h2-1002 mg-t-10">DỊCH VỤ CHĂM SÓC WEBSITE </h2>
+                    <h2 class="h2-1002 mg-t-10 cl-title-mb">DỊCH VỤ CHĂM SÓC WEBSITE </h2>
                     <p style="color: #525F81;">Thu hút thêm nhiều khách hàng tiềm năng với gói Chăm sóc website của JinJoo Marketing: Tối thiểu chi phí, Tối đa lợi nhuận.
                     </p>
                 </div>
@@ -354,7 +354,7 @@
             </div>
             <div class="w-50 mobile-w100">
                 <div>
-                    <h2 class="h2-1002 mg-t-10">DỊCH VỤ QUẢNG CÁO GOOGLE, FACEBOOK</h2>
+                    <h2 class="h2-1002 mg-t-10 cl-title-mb">DỊCH VỤ QUẢNG CÁO GOOGLE, FACEBOOK</h2>
                     <p style="color: #525F81;">Gia tăng thêm cơ hội tiếp cận nhóm khách hàng mới, mở rộng thị trường với dịch vụ Quảng cáo trên các nền tảng số của chúng tôi.
                     </p>
                 </div>

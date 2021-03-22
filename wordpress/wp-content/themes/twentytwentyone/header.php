@@ -2,15 +2,14 @@
 <html>
 
 <head>
+
     <title></title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <script src="https://kit.fontawesome.com/ac5307c113.js" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap" rel="stylesheet">
-    <link href="<?php echo get_template_directory_uri() ?>/css/as.css" rel="stylesheet">
-    <link href="<?php echo get_template_directory_uri() ?>/css/index.css" rel="stylesheet">
-    <link href="<?php echo get_template_directory_uri() ?>/css/icon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/my_custom_css.css" type="text/css" media="screen" />
     <?php wp_head(); ?>
 
   
@@ -45,9 +44,40 @@ onload = function()
         dots[slideIndex - 1].className += " active";
         setTimeout(showSlides, 2000);
     }
+    //Menu mobile
+    function myFunction() {
+        var x = document.getElementById("myLinks");
+        if (x.style.display === "block") {
+            x.style.display = "none";
+        } else {
+            x.style.display = "block";
+        }
+    }
 </script>
 <style>
     /*slideshow 2*/
+    body,
+a,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'montserrat';
+}
+p {
+  font-family: 'montserrat';
+}
+@font-face {
+    src:url('Montserrat-Light.ttf');
+    font-family: 'montserrat';
+
+}.examplefontl {
+  font-family: 'Montserrat-Light';  
+  color: black;
+}
 #slideshow {
     overflow: hidden;
     margin: 0 auto;
@@ -114,31 +144,31 @@ onload = function()
     <div id="header" class="class-0000" style="margin-right: auto; margin-left: auto;">
         <section id="section-1">
             <div class="container">
-                <div class="w-78">
+                <div class="w-78 mobile-w100">
                     <div class="pd-10">
                         <div>
-                            <ul>
+                            <ul class="mb-space-between">
                                 <li>
                                     <a>
                                         <span class="elementor-icon-list-icon">
                                             <i aria-hidden="true" class="fas fa-envelope"></i>
                                         </span>
-                                        <span class="color-525F81">info@jinjoomarketing.com</span>
+                                        <span class="color-525F81 mb-fz-12">info@jinjoomarketing.com</span>
                                     </a>
                                 </li>
-                                <li class="mg-l-30">
+                                <li class="mg-l-30 mb-mg-l-10">
                                     <a>
                                         <span class="elementor-icon-list-icon">
                                             <i aria-hidden="true" class="fas fa-phone"></i>
                                         </span>
-                                        <span class="color-525F81">(+84) 867707008</span>
+                                        <span class="color-525F81 mb-fz-12">(+84) 867707008</span>
                                     </a>
                                 </li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="w-15">
+                <div class="w-15 mb-display-none">
                     <div class="pd-10">
                         <div>
                             <ul>
@@ -170,8 +200,8 @@ onload = function()
             </div>
         </section>
         <section id="section-2" style="width: 100%">
-            <div class="container flex">
-                <div class="pd-10" style="width: calc(40% - 20px);">
+            <div class="container flex" style="justify-content: space-between;">
+                <div class="pd-10 mb-auto-w" style="width: calc(40% - 20px);">
                     <div class="elementor-image">
                         <a href="#" style="display: flex;">
                             <img class="alignnone wp-image-2736" src="img/logo100.png" height="60" alt="" data-wp-editing="1">
@@ -179,7 +209,7 @@ onload = function()
                         </a>
                     </div>
                 </div>
-                <div class="flex w-60" style="justify-content: flex-end;">
+                <div class="flex w-60 mb-display-none" style="justify-content: flex-end; ">
                     <div style="display: flex;">
                         <div class="menu">
                             <nav>
@@ -202,33 +232,46 @@ onload = function()
                             </nav>
                         </div>
                         <div class="elementor-widget-container pd-10">
-                        <button>Tư Vấn Ngay</button>
+                            <button>Tư Vấn Ngay</button>
+                        </div>
                     </div>
-                    </div>
-                    <!-- <div class="menu w-85">
-                        <nav>
-                            <ul class="float-r pd-10">
-                                <li><a href="http://localhost/izisolution-1/wordpress">Trang Chủ</a></li>
-                                <li>
-                                    <a href="http://localhost/izisolution-1/wordpress/dich-vu-thiet-ke-website/">Dịch Vụ</a>
-                                    <ul class="sub-menu ">
-                                        <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-thiet-ke-website/">Dịch vụ thiết kế website</a></li>
-                                        <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-toi-uu-website/">Dịch vụ tối ưu website</a></li>
-                                        <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-marketing/">Dịch vụ Marketing</a></li>
-                                        <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-cham-soc-website/">Dịch vụ chăm sóc website</a></li>
-                                        <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-google-maps/">Dịch vụ Google Maps</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="http://localhost/izisolution-1/wordpress/ve-chung-toi/">Về Chúng Tôi</a></li>
-                                <li><a href="http://localhost/izisolution-1/wordpress/kien-thuc/">Kiến Thức</a></li>
-                                <li><a href="http://localhost/izisolution-1/wordpress/lien-he/">Liên Hệ</a></li>
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="elementor-widget-container w-15 pd-10">
-                        <button>Tư Vấn Ngay</button>
-                    </div> -->
+                </div>
+                <div class="mobile-container">
+
+                <!-- Top Navigation Menu -->
+                <div class="topnav">
+                <div class="menu-mb-button mb-display-block" style="display: none;">
+                    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+                <div id="myLinks">
+                    <nav>
+                        <ul class="float-r">
+                            <li><a href="http://localhost/izisolution-1/wordpress">Trang Chủ</a></li>
+                            <li>
+                                <a href="http://localhost/izisolution-1/wordpress/dich-vu-thiet-ke-website/">Dịch Vụ</a>
+                                <ul class="sub-menu ">
+                                    <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-thiet-ke-website/">Dịch vụ thiết kế website</a></li>
+                                    <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-toi-uu-website/">Dịch vụ tối ưu website</a></li>
+                                    <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-marketing/">Dịch vụ Marketing</a></li>
+                                    <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-cham-soc-website/">Dịch vụ chăm sóc website</a></li>
+                                    <li><a href="http://localhost/izisolution-1/wordpress/dich-vu-google-maps/">Dịch vụ Google Maps</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="http://localhost/izisolution-1/wordpress/ve-chung-toi/">Về Chúng Tôi</a></li>
+                            <li><a href="http://localhost/izisolution-1/wordpress/kien-thuc/">Kiến Thức</a></li>
+                            <li><a href="http://localhost/izisolution-1/wordpress/lien-he/">Liên Hệ</a></li>
+                        </ul>
+                    </nav>
+                </div>
                 </div>
             </div>
+            </div>
+            
+        </section>
+        
+        <section>
+
         </section>
         <section id="section-22"></section>
